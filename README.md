@@ -1,2 +1,2 @@
 # Kickstarter-analysis
-Performing amalysis on Kicksatrter data to uncover trends
+Performing analysis on Kicksatrter data to uncover trends
